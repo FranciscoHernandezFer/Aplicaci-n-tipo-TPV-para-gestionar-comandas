@@ -62,9 +62,9 @@ lock = threading.Lock()
 
 lock_orden_mesas = RLock()
 
-CHAT_ID = '-1002531458261'  # ID del chat de Telegram (grupo o canal)
+CHAT_ID = ''  # ID del chat de Telegram (grupo o canal)
 
-TOKEN = '7833165689:AAE_QWuMCuVa3KQuWVXj8OuRRXdPCv3x_TU'
+TOKEN = ''
 
 # Diccionario para almacenar los mensajes por categoría (Mesa)
 mensajes_por_categoria = {f"M{i}": [] for i in range(1, 29)}
