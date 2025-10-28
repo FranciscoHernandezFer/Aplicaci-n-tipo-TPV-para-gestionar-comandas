@@ -61,7 +61,7 @@ lock = threading.Lock()
 
 lock_orden_mesas = RLock()
 
-TOKEN = '7833165689:AAE_QWuMCuVa3KQuWVXj8OuRRXdPCv3x_TU'
+TOKEN = '' # Token bot de telegram
 
 # Diccionario para almacenar los mensajes por categoría (Mesa)
 mensajes_por_categoria = {f"M{i}": [] for i in range(1, 29)}
@@ -85,7 +85,7 @@ ARCHIVO_ESTADO = "ultimo_offset.json"
 ARCHIVO_CONTADORES_TURNO = "contadores_turno.json"
 
 # URL de tu servidor backend
-SERVER_URL = "https://proyecto-tfg-webapp.onrender.com/api/comandas/publicar"
+SERVER_URL = "" # servidor app web
 
 # Función para guardar los mensajes en un archivo JSON
 def guardar_mensajes():
