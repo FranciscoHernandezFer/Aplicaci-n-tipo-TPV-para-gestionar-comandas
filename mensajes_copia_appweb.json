@@ -1,0 +1,134 @@
+{
+  "mensajes": {
+    "M1": [],
+    "M2": [],
+    "M3": [
+      {
+        "texto": "b3",
+        "Nombre": "Fran",
+        "hora": "2025-10-04 03:23:07",
+        "id": 903
+      },
+      {
+        "texto": "m3",
+        "Nombre": "Fran",
+        "hora": "2025-10-04 03:23:15",
+        "id": 904
+      },
+      {
+        "texto": "AS\nAASD\nm3",
+        "Nombre": "Fran",
+        "hora": "2025-10-04 03:23:26",
+        "id": 907
+      },
+      {
+        "texto": "MASD\nASDA\nASD\nB3",
+        "Nombre": "Fran",
+        "hora": "2025-10-04 03:23:34",
+        "id": 908
+      }
+    ],
+    "M4": [
+      {
+        "texto": "m4",
+        "Nombre": "Fran",
+        "hora": "2025-10-04 02:24:59",
+        "id": 902
+      }
+    ],
+    "M5": [],
+    "M6": [],
+    "M7": [
+      {
+        "texto": "m7",
+        "Nombre": "Fran",
+        "hora": "2025-10-04 02:24:39",
+        "id": 900
+      },
+      {
+        "texto": "m7\nMedia cesar especial \nT melosa sin anchoas y con mermelada \nT melosa normal  \nMedia parmesano con almendras \nMatrimonio\nMarinera\nSalao\nRancheras \nBurger melosa 2 (una sin salsa ni lechuga)",
+        "Nombre": "Fran",
+        "hora": "2025-10-15 17:55:31",
+        "id": 926
+      }
+    ],
+    "M8": [],
+    "M9": [],
+    "M10": [],
+    "M11": [
+      {
+        "texto": "m11",
+        "Nombre": "Fran",
+        "hora": "2025-10-04 00:12:09",
+        "id": 896
+      },
+      {
+        "texto": "m11",
+        "Nombre": "Fran",
+        "hora": "2025-10-04 02:24:55",
+        "id": 901
+      },
+      {
+        "texto": "m11\nMedia cesar especial \nT melosa sin anchoas y con mermelada \nT melosa normal  \nMedia parmesano con almendras \nMatrimonio\nMarinera\nSalao\nRancheras \nBurger melosa 2 (una sin salsa ni lechuga)",
+        "Nombre": "Fran",
+        "hora": "2025-10-15 17:55:28",
+        "id": 925
+      }
+    ],
+    "M12": [
+      {
+        "texto": "m12\nMedia cesar especial \nT melosa sin anchoas y con mermelada \nT melosa normal  \nMedia parmesano con almendras \nMatrimonio\nMarinera\nSalao\nRancheras \nBurger melosa 2 (una sin salsa ni lechuga)",
+        "Nombre": "Fran",
+        "hora": "2025-10-15 17:55:15",
+        "id": 921
+      },
+      {
+        "texto": "m12\nMedia cesar especial \nT melosa sin anchoas y con mermelada \nT melosa normal  \nMedia parmesano con almendras \nMatrimonio\nMarinera\nSalao\nRancheras \nBurger melosa 2 (una sin salsa ni lechuga)",
+        "Nombre": "Fran",
+        "hora": "2025-10-15 17:55:23",
+        "id": 923
+      },
+      {
+        "texto": "m12\nMedia cesar especial \nT melosa sin anchoas y con mermelada \nT melosa normal  \nMedia parmesano con almendras \nMatrimonio\nMarinera\nSalao\nRancheras \nBurger melosa 2 (una sin salsa ni lechuga)",
+        "Nombre": "Fran",
+        "hora": "2025-10-15 17:55:25",
+        "id": 924
+      }
+    ],
+    "M13": [],
+    "M14": [
+      {
+        "texto": "m14",
+        "Nombre": "Fran",
+        "hora": "2025-10-04 00:09:39",
+        "id": 892
+      },
+      {
+        "texto": "m14\nMedia cesar especial \nT melosa sin anchoas y con mermelada \nT melosa normal  \nMedia parmesano con almendras \nMatrimonio\nMarinera\nSalao\nRancheras \nBurger melosa 2 (una sin salsa ni lechuga)",
+        "Nombre": "Fran",
+        "hora": "2025-10-04 00:09:48",
+        "id": 893
+      },
+      {
+        "texto": "m14\nMedia cesar especial \nT melosa sin anchoas y con mermelada \nT melosa normal  \nMedia parmesano con almendras \nMatrimonio\nMarinera\nSalao\nRancheras \nBurger melosa 2 (una sin salsa ni lechuga)",
+        "Nombre": "Fran",
+        "hora": "2025-10-15 17:55:21",
+        "id": 922
+      }
+    ],
+    "M15": [],
+    "M16": [],
+    "M17": [],
+    "M18": [],
+    "M19": [],
+    "M20": [],
+    "M21": [],
+    "M22": [],
+    "M23": [],
+    "M24": [],
+    "M25": [],
+    "M26": [],
+    "M27": [],
+    "M28": []
+  }
+}

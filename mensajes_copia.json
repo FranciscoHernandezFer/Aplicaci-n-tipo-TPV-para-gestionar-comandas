@@ -1,0 +1,123 @@
+{
+  "mensajes": {
+    "M1": [
+      {
+        "texto": "m1",
+        "Nombre": "Fran",
+        "hora": "2025-10-19 23:10:19",
+        "id": 824
+      }
+    ],
+    "M2": [],
+    "M3": [
+      {
+        "texto": "m3\nASDA",
+        "Nombre": "Fran",
+        "hora": "2025-10-19 20:26:35",
+        "id": 932
+      },
+      {
+        "texto": "M3\nASDASDA\nDAD\nADAS\nDDDDF",
+        "Nombre": "Fran",
+        "hora": "2025-10-19 22:45:21",
+        "id": 935
+      },
+      {
+        "texto": "m3\nSAD",
+        "Nombre": "Fran",
+        "hora": "2025-10-19 22:55:30",
+        "id": 812
+      },
+      {
+        "texto": "M3\nPrueba",
+        "Nombre": "Fran",
+        "hora": "2025-10-20 00:37:30",
+        "id": 194
+      }
+    ],
+    "M4": [],
+    "M5": [],
+    "M6": [],
+    "M7": [],
+    "M8": [],
+    "M9": [],
+    "M10": [],
+    "M11": [
+      {
+        "texto": "m11\nasdasd",
+        "Nombre": "Fran",
+        "hora": "2025-10-19 22:45:03",
+        "id": 934
+      },
+      {
+        "texto": "m11",
+        "Nombre": "Fran",
+        "hora": "2025-10-19 22:58:51",
+        "id": 814
+      },
+      {
+        "texto": "m11\nASD\nS",
+        "Nombre": "Fran",
+        "hora": "2025-10-19 22:59:00",
+        "id": 816
+      }
+    ],
+    "M12": [
+      {
+        "texto": "m12",
+        "Nombre": "Fran",
+        "hora": "2025-10-19 23:10:25",
+        "id": 825
+      },
+      {
+        "texto": "M12\nPrueba",
+        "Nombre": "Fran",
+        "hora": "2025-10-20 00:35:39",
+        "id": 831
+      }
+    ],
+    "M13": [
+      {
+        "texto": "m13",
+        "Nombre": "Fran",
+        "hora": "2025-10-19 22:44:36",
+        "id": 933
+      },
+      {
+        "texto": "m13\nASDAD",
+        "Nombre": "Fran",
+        "hora": "2025-10-19 22:59:08",
+        "id": 818
+      }
+    ],
+    "M14": [
+      {
+        "texto": "La comanda de la mesa 14 ha sido completada:\n[color=0000ff][u][17:55] Fran[/u][/color]:\nm14\nMedia cesar especial \nT melosa sin anchoas y con mermelada \nT melosa normal  \nMedia parmesano con almendras \nMatrimonio\nMarinera\nSalao\nRancheras \nBurger melosa 2 (una sin salsa ni lechuga)",
+        "Nombre": "Fran",
+        "hora": "2025-10-19 21:20:37",
+        "id": 805
+      }
+    ],
+    "M15": [],
+    "M16": [],
+    "M17": [],
+    "M18": [],
+    "M19": [],
+    "M20": [],
+    "M21": [],
+    "M22": [],
+    "M23": [],
+    "M24": [],
+    "M25": [],
+    "M26": [
+      {
+        "texto": "m26\nMedia cesar especial \nT melosa sin anchoas y con mermelada \nT melosa normal  \nMedia parmesano con almendras \nMatrimonio\nMarinera\nSalao\nRancheras \nBurger melosa 2 (una sin salsa ni lechuga)\nMedia cesar especial \nT melosa sin anchoas y con mermelada \nT melosa normal  \nMedia parmesano con almendras \nMatrimonio\nMarinera\nSalao\nRancheras \nBurger melosa 2 (una sin salsa ni lechuga)\nMedia cesar especial \nT melosa sin anchoas y con mermelada \nT melosa normal  \nMedia parmesano con almendras \nMatrimonio\nMarinera\nSalao\nRancheras \nBurger melosa 2 (una sin salsa ni lechuga)",
+        "Nombre": "Fran",
+        "hora": "2025-10-19 22:59:30",
+        "id": 820
+      }
+    ],
+    "M27": [],
+    "M28": []
+  }
+}

@@ -1,0 +1,240 @@
+{
+    "Turno tarde dia 13/06/2025": {
+        "Fran": {
+            "contador": 1,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno mañana dia 14/06/2025": {
+        "Fran": {
+            "contador": 1,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 11/06/2025": {
+        "Fran": {
+            "contador": 1,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 12/06/2025": {
+        "Fran": {
+            "contador": 1,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno mañana dia 12/06/2025": {
+        "Fran": {
+            "contador": 1,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 14/06/2025": {
+        "Fran": {
+            "contador": 1,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 01/08/2025": {
+        "Fran": {
+            "contador": 11,
+            "porcentaje": 84.62
+        },
+        "Nuria": {
+            "contador": 2,
+            "porcentaje": 15.38
+        }
+    },
+    "Turno tarde dia 02/08/2025": {
+        "Fran": {
+            "contador": 14,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno mañana dia 04/08/2025": {
+        "Fran": {
+            "contador": 5,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 04/08/2025": {
+        "Nuria": {
+            "contador": 1,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 20/08/2025": {
+        "Fran": {
+            "contador": 9,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno mañana dia 21/08/2025": {
+        "Fran": {
+            "contador": 1,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 22/08/2025": {
+        "Fran": {
+            "contador": 1,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 24/08/2025": {
+        "Fran": {
+            "contador": 38,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno mañana dia 25/08/2025": {
+        "Fran": {
+            "contador": 4,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 25/08/2025": {
+        "Fran": {
+            "contador": 21,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 26/08/2025": {
+        "Fran": {
+            "contador": 33,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno mañana dia 27/08/2025": {
+        "Fran": {
+            "contador": 2,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 28/08/2025": {
+        "Fran": {
+            "contador": 3,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 30/08/2025": {
+        "Nuria": {
+            "contador": 4,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 02/09/2025": {
+        "Fran": {
+            "contador": 2,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno mañana dia 02/09/2025": {
+        "Fran": {
+            "contador": 1,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 08/09/2025": {
+        "Fran": {
+            "contador": 15,
+            "porcentaje": 93.75
+        },
+        "Nuria": {
+            "contador": 1,
+            "porcentaje": 6.25
+        }
+    },
+    "Turno tarde dia 13/09/2025": {
+        "Fran": {
+            "contador": 9,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 14/09/2025": {
+        "Fran": {
+            "contador": 38,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 15/09/2025": {
+        "Fran": {
+            "contador": 104,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno mañana dia 19/09/2025": {
+        "Nuria": {
+            "contador": 2,
+            "porcentaje": 33.33
+        },
+        "Fran": {
+            "contador": 4,
+            "porcentaje": 66.67
+        }
+    },
+    "Turno tarde dia 19/09/2025": {
+        "Fran": {
+            "contador": 9,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 21/09/2025": {
+        "Nuria": {
+            "contador": 2,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno mañana dia 22/09/2025": {
+        "Fran": {
+            "contador": 2,
+            "porcentaje": 66.67
+        },
+        "Nuria": {
+            "contador": 1,
+            "porcentaje": 33.33
+        }
+    },
+    "Turno tarde dia 22/09/2025": {
+        "Nuria": {
+            "contador": 3,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 03/10/2025": {
+        "Fran": {
+            "contador": 8,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 04/10/2025": {
+        "Fran": {
+            "contador": 19,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno mañana dia 04/10/2025": {
+        "Fran": {
+            "contador": 1,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 15/10/2025": {
+        "Fran": {
+            "contador": 6,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 19/10/2025": {
+        "Fran": {
+            "contador": 12,
+            "porcentaje": 100.0
+        }
+    },
+    "Turno tarde dia 20/10/2025": {
+        "Fran": {
+            "contador": 2,
+            "porcentaje": 100.0
+        }
+    }
+}

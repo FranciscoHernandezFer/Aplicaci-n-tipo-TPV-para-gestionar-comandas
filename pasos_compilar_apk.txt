@@ -1,0 +1,8 @@
+Pasos importantes para compilar el APK con Buildozer:
+
+1. deactivate
+2. deactivate
+3. source myenv_v3/bin/activate
+4. python --version
+5. buildozer -v android debug
+ Acuerdate que has metido requests en la parte de requirements en buildozer, si te da error es por eso
